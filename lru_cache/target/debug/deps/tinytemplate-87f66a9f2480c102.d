@@ -1,0 +1,10 @@
+C:\Users\nvm21\OneDrive\Bureau\V\Ecole\Rust\lru_cache\target\debug\deps\libtinytemplate-87f66a9f2480c102.rmeta: C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\lib.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\compiler.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\error.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\instruction.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\syntax.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\template.rs
+
+C:\Users\nvm21\OneDrive\Bureau\V\Ecole\Rust\lru_cache\target\debug\deps\tinytemplate-87f66a9f2480c102.d: C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\lib.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\compiler.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\error.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\instruction.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\syntax.rs C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\template.rs
+
+C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\lib.rs:
+C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\compiler.rs:
+C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\error.rs:
+C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\instruction.rs:
+C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\syntax.rs:
+C:\Users\nvm21\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\template.rs:

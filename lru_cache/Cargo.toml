@@ -1,0 +1,18 @@
+[package]
+name = "lru_cache"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+
+[dev-dependencies]
+criterion = "0.5"
+
+[profile.bench]
+opt-level = 3
+
+[[bench]]
+name = "benchmark"
+harness = false
